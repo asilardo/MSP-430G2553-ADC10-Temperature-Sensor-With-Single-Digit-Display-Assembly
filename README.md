@@ -7,4 +7,4 @@ This Assembly project uses the ADC10 Temperature Sensor on the MSP-430G2553 Micr
 3. Custom 7-segment Launchpad Display 2.0 with 4 Pushbuttons provided by Texas Tech University 
 ![](ADC10tempsensordemo.gif)
 
-#Note: Project was Developed using IAR Embedded Workbench (as seen in the .s43 file extension for the code)
+#Note: Project was developed using IAR Embedded Workbench (as seen in the .s43 file extension for the code)
