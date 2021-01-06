@@ -1,14 +1,1 @@
- Assembly:
-  type: programming
-  color: "#6E4C13"
-  aliases:
-  - nasm
-  extensions:
-  - ".asm"
-  - ".a51"
-  - ".inc"
-  - ".nasm"
-  tm_scope: source.assembly
-  ace_mode: assembly_x86
-  language_id: 24
-
+static/* linguist-vendored
