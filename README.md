@@ -1,3 +1,5 @@
+*.ASM linguist-language=Assembly
+
 # MSP-430G2553-ADC10-Temperature-Sensor-With-Single-Digit-Display-Assembly
 This Assembly project uses the ADC10 Temperature Sensor on the MSP-430G2553 Microcontroller. The code updates the hexadecimal value of the temperature every second and outputs this on the 7-segment display. This is one of my several projects that I had to complete for my ECE-3362 Microcontrollers class at Texas Tech University. I received a 100% on the project and wanted to demonstrate how the temperature sensor on the MSP functions with the use of Assembly Code.
 
